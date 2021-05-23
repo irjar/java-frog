@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ value()
+comment0.text=\ \r\n\ Performs\ an\ arbitrary\ action\ in\ response\ to\ 'value'.\r\n
+comment1.params=taxRate
+comment1.target=double\ payTax(int)
+comment1.text=\ \r\n\ Performs\ an\ arbitrary\ action\ in\ response\ to\ 'payTax'.\r\n
+numComments=2
